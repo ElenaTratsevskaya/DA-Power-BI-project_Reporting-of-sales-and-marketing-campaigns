@@ -62,8 +62,14 @@ Creating combined reporting based on store CRM, setting up a data gateway to set
 Добавить фильтры по дате, категории, товарам<br>
 Синхронизировать фильтры даты по менеджерам и товарам<br><br>
 
-![Дашборд_3 2](https://github.com/ElenaTratsevskaya/DA-Power-BI-project_Reporting-of-sales-and-marketing-campaigns/assets/110056199/659cefff-5f54-42f8-9046-588deefde561)
+![Дашборд_3 2](https://github.com/ElenaTratsevskaya/DA-Power-BI-project_Reporting-of-sales-and-marketing-campaigns/assets/110056199/f31714c3-d557-409f-aae6-5051134381ed)
 
+
+**ВЗАИМОСВЯЗЬ АССОРТИМЕНТА И ВЫРУЧКИ**<br>
+представлена на точечной диаграмме.<br>
+Переключение на листе дашборда по товарам между Матрицей данных и Точечной диаграммой осуществляется через кнопки-закладки<br>
+
+![Дашборд_3 2(2)](https://github.com/ElenaTratsevskaya/DA-Power-BI-project_Reporting-of-sales-and-marketing-campaigns/assets/110056199/5cb1fbc7-2184-450b-87e9-1c8c7ef1bb6b)
 
 **ДАШБОРД ПО РЕКЛАМЕ**<br>
 Задачи для дашборда по рекламе<br>
@@ -82,7 +88,7 @@ Creating combined reporting based on store CRM, setting up a data gateway to set
 Сделать общий фильтр по месяцам
 <br>
 
-![Дашборд_3 3](https://github.com/ElenaTratsevskaya/DA-Power-BI-project_Reporting-of-sales-and-marketing-campaigns/assets/110056199/18a92fbf-105b-4a59-83f2-6c08774a423a)
+![Дашборд_3 3(2)](https://github.com/ElenaTratsevskaya/DA-Power-BI-project_Reporting-of-sales-and-marketing-campaigns/assets/110056199/39b7850f-ae25-4ce5-aed0-3c0a326299c3)
 
 **ВЫВОДЫ**<br>
 **По менеджерам**<br>
